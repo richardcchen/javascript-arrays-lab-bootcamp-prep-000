@@ -24,3 +24,7 @@ function prependKitten(kitty){
   var newkittens = [kitty, ...kittens];
   return newkittens
 }
+
+function removeLastKitten(){
+  
+}
