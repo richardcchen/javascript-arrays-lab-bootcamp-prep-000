@@ -1,2 +1,4 @@
 const app = "I don't do much."
-destructivelyAppendKitten
+function destructivelyAppendKitten(kittens, kitty){
+  
+}
